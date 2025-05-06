@@ -4,6 +4,24 @@
 
 
 ######## ASTRO GO ########
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="ASTRO GO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/ria.png",Astro Ria
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="ASTRO GO" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/prima.png",Astro Prima
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO GO" ch-number="108" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/citra.png",Astro Citra
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" ch-number="100" tvg-name="Astro Scream" group-title="ASTRO GO" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/581_144.png",Astro Scream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
@@ -17,7 +35,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_ott.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="ASTRO GO" group-logo="https://cdn.prod.website-files.com/60a75d8226f3295ecacf9e33/6143748c117705cedffc4ee7_6124a051ce5fb8ee1d58427c_AG%2520logo.png" tvg-logo="https://iili.io/1NKFDv.png",TV1 CH101 (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux Android 7.0 ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
-
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
