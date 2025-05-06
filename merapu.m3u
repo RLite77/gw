@@ -22,6 +22,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO GO" ch-number="108" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/citra.png",Astro Citra
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3}
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ASTRO GO",Arena Bola (GO)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb}
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="ASTRO GO",Arena Bola 2 (GO)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/assp.png" group-title="ASTRO GO",Astro Premier League (GO)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/assp2.png" group-title="ASTRO GO",Astro Premier League 2 (GO)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" ch-number="100" tvg-name="Astro Scream" group-title="ASTRO GO" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-128,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/581_144.png",Astro Scream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
