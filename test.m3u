@@ -1,5 +1,16 @@
 #EXTM3U
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://raw.githubusercontent.com/RLite77/icon/main/beinsp.png" group-title="Astro Bola Channels ⚽",beIN Sports
+#KODIPROP:inputstream.adaptive.license_key={1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e}
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="Astro Sports ⛳",beIN Sports 1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd|user-agent=com.genuine.leone
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3}
+#EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Astro Sports ⛳",beIN Sports 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd|user-agent=com.genuine.leone
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337}
+#EXTINF:-1 tvg-id="822.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Astro Sports ⛳",beIN Sports 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd|user-agent=com.genuine.leone
